@@ -1,7 +1,6 @@
 import random
 import time
 import hashlib
-import matrix
 
 class USBAuthKey:
     def __init__(self):
